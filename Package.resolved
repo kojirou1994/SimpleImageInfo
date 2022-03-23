@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Endianness",
+        "repositoryURL": "https://github.com/kojirou1994/Endianness.git",
+        "state": {
+          "branch": null,
+          "revision": "b4a0c081ed60a6f2c12f2b3d152445e1f96aa079",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "IOUtility",
+        "repositoryURL": "https://github.com/kojirou1994/IOUtility.git",
+        "state": {
+          "branch": null,
+          "revision": "918c687662e354b4cd46910b7d3fb7a84edad747",
+          "version": "0.0.1"
+        }
+      },
+      {
+        "package": "Precondition",
+        "repositoryURL": "https://github.com/kojirou1994/Precondition.git",
+        "state": {
+          "branch": null,
+          "revision": "8bfd454560f5bfafe9bf0db3e929ef65ba189400",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "swift-system",
+        "repositoryURL": "https://github.com/apple/swift-system.git",
+        "state": {
+          "branch": null,
+          "revision": "836bc4557b74fe6d2660218d56e3ce96aff76574",
+          "version": "1.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
